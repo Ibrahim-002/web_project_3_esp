@@ -7,3 +7,6 @@ Este es un proyecto que muestra las ciudades natales de algunos de los empleados
 **Skills**
 
 Para la elaboración de este proyecto se utilizo HTML5 y CSS3.
+
+**Link del Repositorio**
+ https://ibrahim-002.github.io/web_project_3_esp/
