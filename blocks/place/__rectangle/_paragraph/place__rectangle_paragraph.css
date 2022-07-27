@@ -1,0 +1,15 @@
+.place__rectangle_paragraph {
+    color: white;
+    text-decoration: none;
+    font-family: 'Inter Regular';
+}
+
+.place__rectangle_paragraph:hover {
+    transform: scale(110%);
+}
+
+@media screen and (max-width: 320px) {
+    .place__rectangle_paragraph {
+        margin-bottom: 8px;
+    }
+}

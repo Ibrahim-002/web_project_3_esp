@@ -1,0 +1,17 @@
+.place__rectangle {
+    grid-area: place__rectangle;
+    width: 355px;
+    height: 48px;
+    background-color: #0278FE;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+@media screen and (max-width: 320px) {
+    .place__rectangle {
+        width: 288px;
+        height: 48px;
+        order: 5;
+    }
+}
