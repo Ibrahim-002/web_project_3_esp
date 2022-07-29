@@ -62,8 +62,8 @@ body {
 }
 
 .lead__subtitle {
-    font-family: 'Inter Regular';
     font-weight: normal;
+    font-family: 'Inter Regular';
     font-size: 30px;
     line-height: 1;
     text-align: center;
