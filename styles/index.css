@@ -2,7 +2,7 @@
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__country/place__country.css);
 @import url(../blocks/place/__website/place__website.css);
-@import url(../blocks/place/__website/_url-heading/place__website_url-heading.css);
+@import url(../blocks/place/__website/-url-heading/place__website-url-heading.css);
 @import url(../blocks/place/__website/_artist/place__website_artist.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 @import url(../blocks/place/__rectangle/place__rectangle.css);
