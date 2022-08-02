@@ -1,15 +1,16 @@
-.place__rectangle_paragraph {
+.place__rectangle-paragraph {
     color: white;
     text-decoration: none;
     font-family: 'Inter Regular';
+    align-self: center;
 }
 
-.place__rectangle_paragraph:hover {
+.place__rectangle-paragraph:hover {
     transform: scale(110%);
 }
 
 @media screen and (max-width: 320px) {
-    .place__rectangle_paragraph {
+    .place__rectangle-paragraph {
         margin-bottom: 8px;
     }
 }

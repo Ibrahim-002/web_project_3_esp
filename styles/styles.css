@@ -198,14 +198,14 @@ body {
     justify-content: center;
 }
 
-.cover__rectangle_paragraph {
+.cover__rectangle-paragraph {
     color: white;
     text-decoration: none;
     font-family: 'Inter Regular';
     align-self: center;
 }
 
-.cover__rectangle_paragraph:hover {
+.cover__rectangle-paragraph:hover {
     transform: scale(110%);
 }
 
