@@ -1,22 +1,22 @@
-.place__title {
-    grid-area: place__title;
+.place__title {    
+    margin: auto auto 48px 0;
     font-size: 72px;
     line-height: 1;
-    width: 584px;
-    margin-bottom: 48px;
+    order: 1;
 }
 
 @media screen and (max-width: 768px){
     .place__title {
+        margin: 0;
         font-size: 42px;
-        width: 340px;
+        width: 100%;
     }
 }
 
 @media screen and (max-width: 320px) {
     .place__title{
         font-size: 32px;
-        width: 288px;
+        width: 90%;
         margin: 0 auto 30px;
         order: 1;
     }

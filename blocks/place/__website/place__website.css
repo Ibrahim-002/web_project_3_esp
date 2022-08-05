@@ -1,23 +1,21 @@
 .place__website {
-    width: 456px;
-    margin-top: 50px;
-    margin-bottom: 48px;
+    margin: auto auto 48px 0;
+    padding-left: 40px;
     font-family: 'Inter Regular';
+    order: 2;
 }
 
 @media screen and (max-width: 768px) {
     .place__website {
-        width: 352px;
-        height: 60px;
-        margin-top: 0;
-        margin-bottom: 24px;
+        padding-left: 11px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .place__website {
-        width: 288px;
+        width: 90%;
         margin: 0 auto 30px;
+        padding-left: 0;
         order: 2;
     }
 }
