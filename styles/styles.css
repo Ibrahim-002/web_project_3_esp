@@ -58,7 +58,6 @@ body {
 
 .lead__title {
     width: 80.6%;
-    height: 200px;
     font-size: 96px;
     line-height: 1;
     text-align: center;
@@ -68,7 +67,6 @@ body {
 
 .lead__subtitle {
     width: 73.2%;
-    height: 72px;
     font-weight: normal;
     font-family: 'Inter Regular';
     font-size: 30px;
