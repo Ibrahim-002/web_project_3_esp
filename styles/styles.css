@@ -45,7 +45,6 @@ body {
 /*Ancho es = 984px*/
 
 .lead {
-    border: 2px solid red;
     width: 88%;
     margin: 91px auto 92px;
 }
@@ -83,7 +82,6 @@ body {
 
 /*Ancho de 1017px*/
 .intro {
-    border: 2px solid red;
     width: 91%;
     margin: 0 auto 92px;
     font-family: 'Inter Regular';
@@ -273,7 +271,6 @@ body {
     }
 
     .places {
-        border: 2px solid red;
         display: flex;
         flex-direction: column;
         width: 94%;
@@ -286,7 +283,7 @@ body {
 
 /*Responsive Design Small*/
 
-@media screen and (max-width: 320px) {
+@media screen and (min-width: 320px) and (max-width: 540px) {
     .lead {
         width: 100%;
         margin: 50px auto 40px;
@@ -365,7 +362,7 @@ body {
     }
 
     .cover__rectangle {
-        width: 198px;
+        width: 62%;
         height: 48px;
     }
 }

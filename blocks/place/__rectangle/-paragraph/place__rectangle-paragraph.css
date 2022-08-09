@@ -9,7 +9,7 @@
     transform: scale(110%);
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 540px) {
     .place__rectangle-paragraph {
         margin-bottom: 8px;
         pointer-events: none;
